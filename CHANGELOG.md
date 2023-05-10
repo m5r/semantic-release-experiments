@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/m5r/semantic-release-experiments/compare/v1.0.0...v1.0.1) (2023-05-10)
+
+
+### Bug Fixes
+
+* test patch release ([#3](https://github.com/m5r/semantic-release-experiments/issues/3)) ([fed50ef](https://github.com/m5r/semantic-release-experiments/commit/fed50efa7646e933362fb32182eb425f19272a69))
+
 # 1.0.0 (2023-05-10)
 
 
