@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/m5r/semantic-release-experiments/compare/v1.2.0...v1.2.1) (2023-05-10)
+
+
+### Bug Fixes
+
+* touch ddd ([aedce2d](https://github.com/m5r/semantic-release-experiments/commit/aedce2d0e1bf49590e65f38c9cb4d3f7cdc10e5f))
+
 # [1.2.0](https://github.com/m5r/semantic-release-experiments/compare/v1.1.0...v1.2.0) (2023-05-10)
 
 
