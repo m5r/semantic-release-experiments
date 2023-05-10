@@ -1,23 +1,23 @@
-name: Other thing
+name: Conventional commits
 on:
-  push:
-    branches:
-      - main
   pull_request:
-    types: [opened, edited, synchronize, reopened]
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
 
 jobs:
   lint_pr_title:
-    name: Lint PR title 2
+    name: Lint PR title
     runs-on: ubuntu-22.04
-    if: ${{ github.event_name == 'pull_request' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
       - name: Install dependencies
         run: npm ci
       - name: Lint title
