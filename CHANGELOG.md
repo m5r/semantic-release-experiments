@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/m5r/semantic-release-experiments/compare/v1.1.0...v1.2.0) (2023-05-10)
+
+
+### Features
+
+* rm ddd ([cbb07bf](https://github.com/m5r/semantic-release-experiments/commit/cbb07bf0ccc240dd3a5627b4fbbc680ac9c20599))
+
 # [1.1.0](https://github.com/m5r/semantic-release-experiments/compare/v1.0.1...v1.1.0) (2023-05-10)
 
 
