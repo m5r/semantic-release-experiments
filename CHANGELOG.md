@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/m5r/semantic-release-experiments/compare/v1.2.1...v1.3.0) (2023-05-10)
+
+
+### Features
+
+* version branch lift off ([#6](https://github.com/m5r/semantic-release-experiments/issues/6)) ([1f34eea](https://github.com/m5r/semantic-release-experiments/commit/1f34eeaa8e05b86ea36008d556c17d404c897adf))
+
 ## [1.2.1](https://github.com/m5r/semantic-release-experiments/compare/v1.2.0...v1.2.1) (2023-05-10)
 
 
