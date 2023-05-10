@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/m5r/semantic-release-experiments/compare/v1.0.1...v1.1.0) (2023-05-10)
+
+
+### Features
+
+* bump version in package.json without publishing npm package ([#5](https://github.com/m5r/semantic-release-experiments/issues/5)) ([af9d16b](https://github.com/m5r/semantic-release-experiments/commit/af9d16bf0af959bc3c6201ed0eecccc780e79f41))
+
 ## [1.0.1](https://github.com/m5r/semantic-release-experiments/compare/v1.0.0...v1.0.1) (2023-05-10)
 
 
