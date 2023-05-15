@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/m5r/semantic-release-experiments/compare/1.2.1...1.3.0) (2023-05-15)
+
+
+### Bug Fixes
+
+* test patch existing version branch ([#7](https://github.com/m5r/semantic-release-experiments/issues/7)) ([8f98233](https://github.com/m5r/semantic-release-experiments/commit/8f982336e2d4e099e44c92ae1204de3bec9ec62f))
+
+
+### Features
+
+* **releases:** repsect tag format ([#8](https://github.com/m5r/semantic-release-experiments/issues/8)) ([1f54010](https://github.com/m5r/semantic-release-experiments/commit/1f540107b089c6d6ef89c9d8b6eeb22032cf59d0))
+* version branch lift off ([#6](https://github.com/m5r/semantic-release-experiments/issues/6)) ([1f34eea](https://github.com/m5r/semantic-release-experiments/commit/1f34eeaa8e05b86ea36008d556c17d404c897adf))
+
 ## [1.3.1](https://github.com/m5r/semantic-release-experiments/compare/v1.3.0...v1.3.1) (2023-05-10)
 
 
