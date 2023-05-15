@@ -24,6 +24,5 @@ module.exports = {
         'message': 'chore(release): ${nextRelease.version}',
       },
     ],
-    'semantic-release-version-branch'
   ],
 };
