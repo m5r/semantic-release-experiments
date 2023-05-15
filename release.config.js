@@ -1,5 +1,6 @@
 module.exports = {
   'branches': ['master'],
+  'tagFormat': '${version}',
   'plugins': [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
@@ -23,6 +24,5 @@ module.exports = {
         'message': 'chore(release): ${nextRelease.version}',
       },
     ],
-    'semantic-release-version-branch'
   ],
 };
